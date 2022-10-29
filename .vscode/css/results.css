@@ -1,0 +1,29 @@
+p {
+    color: #000000;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 24px;
+    padding: 0px 100px;
+    
+  } 
+form {
+    background-color: rgb(177, 201, 245);
+    box-sizing: 50px;
+
+  }
+  .container1 {
+    background-color:#a5c422;
+    color: white;
+    padding: 20px 20px;
+    margin: 8px 5px;
+    border: none;
+    cursor: pointer;
+    width: 20%;
+    opacity: 0.9;
+    
+    
+  }
+ .container1:hover {
+    opacity: 0.8;
+    background-color: #888;
+  }
